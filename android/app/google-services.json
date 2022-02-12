@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457727596943",
+    "project_id": "flutter-app-b55d9",
+    "storage_bucket": "flutter-app-b55d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457727596943:android:c892ade2be9af11c1a93fa",
+        "android_client_info": {
+          "package_name": "com.arafat.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457727596943-echb3i2836bf0ofhf30ourf45o1f015c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahRBl8HsMk3iDlX9NItQB6H2Pb0SrmPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457727596943-echb3i2836bf0ofhf30ourf45o1f015c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
